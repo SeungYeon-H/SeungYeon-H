@@ -1,6 +1,7 @@
 ## Hi, I am Seungyeon! ✨
 I am interested in processing and visualizing data through R 👀 
-Currently in Georgia, USA🌱 
+
+Currently based in Georgia, USA🌱 
 <!--
 **SeungYeon-H/SeungYeon-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
